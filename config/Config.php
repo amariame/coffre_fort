@@ -19,8 +19,8 @@ class Config
             "host" => "localhost",
             "port" => "3306",
             "dbname" => "coffre_fort",
-            "dbuser" => "amar",
-            "dbpassword" => "5991.Amar"
+            "dbuser" => "root",
+            "dbpassword" => "password"
         ];
     }
 
