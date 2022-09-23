@@ -49,8 +49,8 @@ Dans le fichier config/Config.php modifier cette ligne
             "host" => "localhost",
             "port" => "3306",
             "dbname" => "coffre_fort",
-            "dbuser" => "amar",
-            "dbpassword" => "5991.Amar"
+            "dbuser" => "root",
+            "dbpassword" => "password"
         ];
     }
  ```
