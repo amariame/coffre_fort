@@ -1,0 +1,11 @@
+En ligne de commande :
+
+1 - se placer dans le dossier courant.
+2 - Compiler le fichier principal (contenant la routine) :
+$: compile fichier_pricipal.e
+
+Eventuellement, pour préciser le fichier produit (principal.x par exemple) :
+$: compile fichier_principal.e -o principal.x
+
+3 - Lancer le projet :
+$: ./a.out
